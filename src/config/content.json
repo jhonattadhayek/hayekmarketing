@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "title": "Hayek Marketing | Especialistas em Tráfego Pago",
+    "description": "Transforme seu negócio com estratégias avançadas de Google Ads e Meta Ads. Mais de 7 milhões investidos em anúncios online e centenas de clientes satisfeitos."
+  },
+  "hero": {
+    "title": "Aumente Suas Vendas com Tráfego Pago Estratégico",
+    "subtitle": "Transformamos Investimento em Resultados Reais com Estratégias Avançadas de Tráfego Pago que Geram Leads Qualificados e Vendas Consistentes",
+    "cta": "Impulsione Seu Negócio Agora",
+    "stats": [
+      {
+        "number": "7M+",
+        "label": "Investidos com Sucesso"
+      },
+      {
+        "number": "85+",
+        "label": "Cases de Sucesso"
+      }
+    ]
+  },
+  "services": {
+    "title": "Nossas Soluções Completas",
+    "subtitle": "Estratégias personalizadas para maximizar seu ROI",
+    "items": [
+      {
+        "title": "Google Ads",
+        "description": "Campanhas altamente segmentadas para captar clientes ativamente buscando seus serviços",
+        "features": [
+          "Anúncios de Pesquisa",
+          "Display",
+          "Remarketing",
+          "Segmentação Avançada"
+        ]
+      },
+      {
+        "title": "Meta Ads",
+        "description": "Estratégias poderosas para Facebook e Instagram que geram leads qualificados",
+        "features": [
+          "Campanhas Inteligente",
+          "Trackeamento de Conversão",
+          "Remarketing Dinâmico",
+          "Otimização Contínua"
+        ]
+      },
+      {
+        "title": "Landing Pages",
+        "description": "Páginas otimizadas para converter visitantes em leads qualificados",
+        "features": [
+          "Design Moderno",
+          "Otimização de Conversão",
+          "Testes A/B",
+          "Scripts AnalitycsTracker+"
+        ]
+      },
+      {
+        "title": "Comercial",
+        "description": "Soluções completas de automação para otimizar seu processo de vendas e atendimento",
+        "features": [
+          "Automação no Atendimento",
+          "Fluxos de Cadência e FollowUps",
+          "Scripts para atendimento",
+          "Disparo para Lista"
+        ]
+      }
+    ]
+  },
+  "process": {
+    "title": "Como Trabalhamos",
+    "subtitle": "Processo comprovado para maximizar seus resultados",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Análise Estratégica",
+        "description": "Entendemos seu negócio, mercado e objetivos para criar uma estratégia personalizada"
+      },
+      {
+        "number": "02",
+        "title": "Implementação",
+        "description": "Criamos e configuramos suas campanhas com técnicas avançadas de segmentação"
+      },
+      {
+        "number": "03",
+        "title": "Otimização",
+        "description": "Monitoramento contínuo e ajustes para maximizar o ROI das campanhas"
+      },
+      {
+        "number": "04",
+        "title": "Resultados",
+        "description": "Relatórios semanais detalhados e transparentes sobre o desempenho"
+      }
+    ]
+  },
+  "features": {
+    "title": "Por Que Escolher a Hayek Marketing",
+    "items": [
+      {
+        "title": "Experiência Comprovada",
+        "description": "Mais de 7 milhões investidos em anúncios online com resultados consistentes"
+      },
+      {
+        "title": "Estratégia Personalizada",
+        "description": "Cada cliente recebe um plano único baseado em seus objetivos específicos"
+      },
+      {
+        "title": "Transparência Total",
+        "description": "Relatórios semanais detalhados e comunicação clara sobre resultados"
+      },
+      {
+        "title": "Otimização Contínua",
+        "description": "Monitoramento constante e ajustes para maximizar o ROI"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para Transformar seu Marketing Digital?",
+    "subtitle": "Agende uma reunião gratuita com nossa equipe e descubra como podemos ajudar seu negócio a crescer",
+    "buttonText": "Agendar Reunião Agora",
+    "features": [
+      "Análise gratuita da sua presença digital",
+      "Estratégia personalizada para seu negócio",
+      "Consultoria com especialistas em tráfego pago"
+    ]
+  },
+  "footer": {
+    "company": "Hayek Marketing",
+    "tagline": "Especialistas em Tráfego Pago",
+    "contact": {
+      "email": "jhon@hayekmarketing.com.br",
+      "phone": "(87) 99948-1453"
+    }
+  }
+}
